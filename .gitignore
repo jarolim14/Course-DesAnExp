@@ -1,5 +1,8 @@
 # Version 2022-08-12
 
+Class2/
+
+
 # History files
 .Rhistory
 .Rapp.history
@@ -13,6 +16,8 @@
 
 # Example code in package build process
 *-Ex.R
+
+.DS_Store
 
 # Output files from R CMD build
 /*.tar.gz
